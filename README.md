@@ -54,3 +54,6 @@ This project turns raw accident data into a smart city safety tool 💡.
 ```bash
 pip install streamlit pandas numpy folium scikit-learn plotly streamlit-folium
 streamlit run app.py
+
+
+Note :- i also attached my jupyter files where i train my Dbscan model although app.py includes all.
